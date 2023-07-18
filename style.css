@@ -1,0 +1,62 @@
+body{
+    background-color:#595a5a;
+    background-image:url(images/amore.jpg);
+    background-size:cover;
+    background-repeat:none;
+    background-position:center;
+}
+.container{
+    margin-left:auto;
+    margin-right:auto;
+    width:1024px;
+}
+header{
+    height: 118px;
+    text-align:center;
+}
+nav{
+    background-color: rgba(0, 0, 0, 0.301);
+    height:40px;
+    text-align:center;
+}
+main{
+    height:400px;
+    text-align:center;
+    padding-top:80px;
+    margin-top: 80px;
+    padding-left:240px;
+    padding-right:240px;
+}
+footer{
+    background-color: rgba (0,0,0, 0.70);
+    padding-top:50px;
+    padding-bottom:50px;
+}
+h1{
+    font-size:84px;
+    color:white;
+    font-family: Arial, Helvetica, Sans-serif;
+    text-align:center;
+}
+p{
+    font-size:18px;
+    color:white;
+    font-family: Arial, Helvetica, Sans-serif;
+}
+a{
+ color:white;
+ font-family: Arial, Helvetica, Sans-serif;
+}
+nav a {
+    text-decoration:none;
+    font-size:12px;
+    padding-left: 10px;
+    padding-right:10px;
+
+}
+
+footer p{
+    font-size: 10px;
+    text-align:center;
+    color: rgb(198,198,198);
+}
